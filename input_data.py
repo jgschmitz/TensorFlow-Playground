@@ -1,4 +1,5 @@
 """Functions for downloading and reading MNIST data."""
+
 from __future__ import print_function
 import gzip
 import os
