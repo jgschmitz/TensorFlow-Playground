@@ -1,4 +1,5 @@
 """Functions for downloading and reading MNIST data."""
+###mnist info here ->  https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.7/tensorflow/g3doc/tutorials/mnist/download/index.md
 
 
 from __future__ import print_function
