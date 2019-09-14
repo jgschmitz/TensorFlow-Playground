@@ -37,7 +37,7 @@ def matpow(M, n):
         return tf.matmul(M, matpow(M, n-1))
 
 '''
-Single GPU computing
+Single style GPU computing
 '''
 with tf.device('/gpu:0'):
     a = tf.constant(A)
