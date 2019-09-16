@@ -1,4 +1,4 @@
-#Multi GPU Basic example
+python3
 '''
 This tutorial requires your machine to have 2 GPUs
 "/cpu:0": The CPU of your machine.
